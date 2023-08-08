@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kgXhIyEBfTIRATC0JARW+rHTWJYvZkTppg9JBt6FnPsUGw2i9G7QVQjCxBEK2WuWm42A8W0kMB2UUHy6NV4EFA==",
+  "success": true,
+  "projectFilePath": "C:\\Jeferson\\ProjetosParaEstudos\\Kafka\\Producer\\KafikaProducer\\Kafka-producer-simples\\bin\\kafka-producer-simple\\kafka-producer-simple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeferson\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\Jeferson\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\Jeferson\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
